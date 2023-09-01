@@ -8,4 +8,4 @@ This Repository containing tools <br>
 -> Validation techniques<br>
 -> Sklearn<br>
 -> Visualizaation Alogorithms (vat,ivat)<br>
--> Forecasting Real World Retail Shop Sales and Quantity(END-To-END WorkFlow)<br>
+-> Forecasting Real World Retail Shop Sales and Quantity(End-To-End WorkFlow)<br>
